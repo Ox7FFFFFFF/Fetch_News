@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="db" uuid="f413c6a9-778c-4954-b8e8-f3ef3d978074">
+    <data-source source="LOCAL" name="db" uuid="387dd83f-2f93-4baf-9741-2a883a784bff">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
       <remarks>SQLite</remarks>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:D:\Code\Pycharm\db.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:D:\GitHub\Fetch_News\Pycharm\db.sqlite3</jdbc-url>
       <driver-properties>
         <property name="enable_load_extension" value="true" />
       </driver-properties>
